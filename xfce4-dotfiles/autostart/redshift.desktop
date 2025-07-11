@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Redshift
+Comment=Night Light
+Path=/usr/bin/redshift
+Exec=redshift -O 2800
+Terminal=True
